@@ -1,6 +1,6 @@
 # 👾 Olá, eu sou Victor! 🎮
 
-![Unity3D Developer](https://media.giphy.com/media/l46CjC8DDY0s7grQA/giphy.gif)
+![Game Developer](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ### 👨‍💻 Sobre Mim
 🎮 Desenvolvedor apaixonado por jogos e tecnologia!  
