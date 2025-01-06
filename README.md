@@ -27,7 +27,7 @@
 
 ### 📫 Contato
 💌 **Email**: victor14master@gmail.com  
-📱 **LinkedIn**: [[Seu Perfil](#)](https://www.linkedin.com/in/victor-pedroza-701b02344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
+📱 **LinkedIn**: (https://www.linkedin.com/in/victor-pedroza-701b02344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 
 ---
 
