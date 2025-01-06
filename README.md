@@ -20,23 +20,14 @@
 ---
 
 ### 🌟 Projetos em Destaque
-- 🕹️ [**Jogo Aventura Amazônica**](#): Um jogo educativo sobre as lendas e a cultura amazônica.  
-- 🚀 [**Simulação Espacial VR**](#): Experiência de realidade virtual para exploração do universo.  
+- 🕹️ [**Jogo Aventura Amazônica**](#): Um jogo educativo sobre as lendas e a cultura amazônica.    
 - 🧩 [**Puzzle Criativo**](#): Jogo desafiador com mecânicas inovadoras.
 
 ---
 
-### 📈 Minhas Conquistas
-- 🏆 Mais de 5 projetos de jogos concluídos.  
-- 📖 Contribuições para projetos open-source em Unity.  
-- 🌍 Jogos publicados alcançando públicos globais.
-
----
-
 ### 📫 Contato
-💌 **Email**: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
-📱 **LinkedIn**: [Seu Perfil](#)  
-🛠️ **GitHub**: [Seu GitHub](#)  
+💌 **Email**: victor14master@gmail.com  
+📱 **LinkedIn**: [[Seu Perfil](#)](https://www.linkedin.com/in/victor-pedroza-701b02344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 
 ---
 
